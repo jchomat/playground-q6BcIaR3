@@ -30,6 +30,6 @@ while True:
 
 # Advanced usage
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["src/basics.py"], "command": "src/python3 basics.py"})
+@[Luke, how many stars are there in these galaxies?]({"stubs": ["src/basics.py"], "command": "python3 src/basics.py"})
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
